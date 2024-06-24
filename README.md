@@ -1,4 +1,4 @@
-# Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup
+# Data Harvest: Scraping Company Info with Python, Pandas, and Beautiful Soup
 
 # **Data Collection:**
 
