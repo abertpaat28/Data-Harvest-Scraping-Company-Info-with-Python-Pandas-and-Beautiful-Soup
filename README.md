@@ -1,20 +1,29 @@
-# Data Harvest: Scraping Company Info with Python, Pandas, and Beautiful Soup
+# 👔 Data Harvest: Scraping Company Info with Python, Pandas, and Beautiful Soup
+---
+👀
+[Python Code 1](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top100largest-companiesby.ipynb) -
+[Python Code 2](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top10largest-privatecompanies.ipynb) -
+[Python Code 3](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top10most-profitablecompanies.ipynb) -
+[Output 1](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top100largest-companiesby.csv) -
+[Output 2](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top10largest-privatecompanies.csv) -
+[Output 3](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top10most-profitablecompanies.csv)
 
-# **Data Collection:**
+---
+# 📚 **Data Collection:**
 
 I used Python libraries like Pandas and Beautiful Soup for web scraping. These tools are great for extracting structured data from websites.
 
 By scraping data from a real website, I was able to collect information about the top 100 largest companies by revenue, the top 10 largest private companies, and the top 10 most profitable companies.
 
-
-# **Tools Used:**
+---
+# 🔧 **Tools Used:**
 
 Jupyter Notebook was an excellent choice for testing and executing my Python code. Its interactive environment allowed me to explore and analyze data step by step.
 
 It’s great that I transformed the tables from the website into three CSV files. This makes the data more accessible and usable for further analysis.
 
-
-# **Challenges:**
+---
+# ⚓ **Challenges:**
 
 There were times when I got stuck due to errors and wasn't getting the desired results. However, thanks to Bing Chat, ChatGPT, and some helpful YouTube videos, I was able to understand the coding functions and structure better. I persisted, found helpful resources, and ultimately overcame these challenges.
 
@@ -37,3 +46,5 @@ _For more information about the project and data sets, you can view or download 
 
 ![table3 - wiki to jn](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/assets/172190865/9eb99736-b2fe-4c51-8a90-ef81b5338ee1)
 ![table3 - jn to excel](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/assets/172190865/593ebbdc-0ab5-4ad5-8ea6-612b15d02875)
+
+---
