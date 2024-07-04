@@ -9,21 +9,21 @@
 [Output 3](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top10most-profitablecompanies.csv)
 
 ---
-# 📚 **Data Collection:**
+## 📚 **Data Collection:**
 
 I used Python libraries like Pandas and Beautiful Soup for web scraping. These tools are great for extracting structured data from websites.
 
 By scraping data from a real website, I was able to collect information about the top 100 largest companies by revenue, the top 10 largest private companies, and the top 10 most profitable companies.
 
 ---
-# 🔧 **Tools Used:**
+## 🔧 **Tools Used:**
 
 Jupyter Notebook was an excellent choice for testing and executing my Python code. Its interactive environment allowed me to explore and analyze data step by step.
 
 It’s great that I transformed the tables from the website into three CSV files. This makes the data more accessible and usable for further analysis.
 
 ---
-# ⚓ **Challenges:**
+## ⚓ **Challenges:**
 
 There were times when I got stuck due to errors and wasn't getting the desired results. However, thanks to Bing Chat, ChatGPT, and some helpful YouTube videos, I was able to understand the coding functions and structure better. I persisted, found helpful resources, and ultimately overcame these challenges.
 
