@@ -1,5 +1,4 @@
 # 👔 Data Harvest: Scraping Company Info with Python, Pandas, and Beautiful Soup
----
 👀
 [Python Code 1](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top100largest-companiesby.ipynb) -
 [Python Code 2](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup/blob/main/top10largest-privatecompanies.ipynb) -
