@@ -27,7 +27,7 @@ It’s great that I transformed the tables from the website into three CSV files
 There were times when I got stuck due to errors and wasn't getting the desired results. However, thanks to Bing Chat, ChatGPT, and some helpful YouTube videos, I was able to understand the coding functions and structure better. I persisted, found helpful resources, and ultimately overcame these challenges.
 
 
-
+---
 _For more information about the project and data sets, you can view or download the files. These data sets can also be used for further analysis and to enhance your data visualization skills using tools like Power BI and Tableau._
 
 
